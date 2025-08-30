@@ -1,0 +1,3 @@
+id,event_id,original_price,suggested_price,listed_price,sale_price,sale_date,sale_created_at,event_date,tickets_sold,total_tickets,popularity,crypto_change,seat_tier,buyer_wallet
+10-09-2025,30-08-2025,1000,50,100,8,0.02,1200,,,,,,,
+15-09-2025,28-08-2025,1500,80,100,10,0.01,1600,,,,,,,
